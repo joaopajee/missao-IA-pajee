@@ -5,67 +5,67 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: " Que tipo de música você costuma ouvir diariamente? ",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: " Músicas calmas e relaxantes ",
+                afirmacao: " Você prefere músicas calmas, como lo-fi e jazz, geralmente busca tranquilidade e concentração ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Uma música mais animada com batidas eletrizantes ",
+                afirmacao: " Você prefere músicas com batidas eletrizantes busca energia e excitação, geralmente em festas ou para se motivar ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Que horas você costuma ouvir músicas no seu dia a dia ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Na parte da manhã e à tarde ",
+                afirmacao: " Você ouve música de manhã e à tarde busca melhorar o humor e manter a energia e o foco ao longo do dia ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Na parte da noite ou madrugada ",
+                afirmacao: " Você ouve música a noite e/ou na madrugada, busca relaxar, descontrair e preparar a mente para o descanso ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual seu estilo de música favorito ? ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Rock, eletrônica ou funk ",
+                afirmacao: " Esses estilos atraem pessoas que curtem ambientes dinâmicos e cheios de ritmo, buscando expressão e diversão ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " MPB, samba, lofi ou sertanejo ",
+                afirmacao: " Esses estilos atraem pessoas que apreciam uma conexão mais íntima e tranquila com a música, seja para refletir, relaxar ou celebrar momentos cotidianos ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Você prefere ouvir músicas nacionais ou internacionais? ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Nacionais ",
+                afirmacao: " Você prefere músicas nacionais valoriza a cultura e as tradições brasileiras, conectando-se com a identidade do país através de estilos como MPB, samba e sertanejo ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Internacionais ",
+                afirmacao: " Você prefere músicas internacionais busca uma conexão com estilos e influências globais, explorando uma diversidade de ritmos e culturas ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Você prefere músicas com letras profundas e emocionais ou músicas mais instrumentais e atmosféricas? ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: " Músicas com letras profundas e emocionais  ",
+                afirmacao: " Você prefere músicas com letras profundas e emocionais geralmente busca uma conexão mais íntima com a música, procurando refletir sobre sentimentos, experiências e histórias que tocam o coração. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Músicas mais instrumentais e atmosféricas ",
+                afirmacao: " Você prefere músicas mais instrumentais e atmosféricas geralmente busca uma experiência mais imersiva, onde o foco está nas texturas sonoras e na ambientação ",
             }
         ]
     },
