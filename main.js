@@ -69,6 +69,20 @@ const perguntas = [
                 texto: " Músicas mais instrumentais e atmosféricas ",
                 afirmacao: " Você prefere músicas mais instrumentais e atmosféricas geralmente busca uma experiência mais imersiva, onde o foco está nas texturas sonoras e na ambientação ",
             }
+
         ]
+
     },
+
 ];
+
+ let atual = 0
+ let perguntaAtual;
+
+ function mostraPergunta(){
+    perguntaAtual = perguntas[atual];
+    caixaPerguntas.textContent = perguntaAtual.enunciado
+ }
+
+ mostraPergunta();
+
